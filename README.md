@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-karki-434753255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karkiram3207@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gettoknowram.vercel.app"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Copenhagen,%20Denmark-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Copenhagen, Denmark">
 </p>
 
