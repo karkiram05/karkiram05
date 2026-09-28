@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-karki-434753255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karkiram3207@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://gettoknowram.vercel.app"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Copenhagen,%20Denmark-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Copenhagen, Denmark">
 </p>
 
@@ -31,8 +32,8 @@ A reproducible ML pipeline for network intrusion detection on **CICIDS2017** (2.
 <br>`Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `pandas`
 
 #### 🛰️ [SentinelFlow: Network/IoT Threat Detection Backend](https://github.com/karkiram05/sentinelflow)
-A FastAPI backend that ingests connection records, runs them through an explainable rule engine and an **Isolation Forest** model, maps alerts to **MITRE ATT&CK** and scores risk from 0 to 100, with a live dashboard. Reports **96.2% precision and 46.9% recall** on the held-out NSL-KDD test split, with a per-attack breakdown of what it catches and misses.
-<br>`Python` · `FastAPI` · `PostgreSQL` · `scikit-learn` · `Docker` · `33 pytest tests` · `CI with Bandit + pip-audit`
+A FastAPI backend that ingests connection records, runs them through an explainable rule engine and an **Isolation Forest** model, maps alerts to **MITRE ATT&CK** and scores risk from 0 to 100, with a live dashboard. On a held-out NSL-KDD split it catches **46.9% of attacks**, strong on scans and single-flow exploits, blind to slow multi-flow attacks, and the write-up shows exactly which ones it misses and why its 96.2% precision is not the number to judge it by.
+<br>`Python` · `FastAPI` · `PostgreSQL` · `scikit-learn` · `Docker` · `43 pytest tests` · `CI with Bandit, pip-audit and Trivy`
 
 #### 🔗 [TrustGraph: CI/CD Attack-Path Analysis](https://github.com/karkiram05/trustgraph)
 Static analysis of **GitHub Actions workflows** and **AWS IAM trust policies** that builds a trust graph (repo → workflow → cloud role) to find real exploitation paths, not isolated misconfigurations. Checks OIDC federation, permissions and action pinning, with severity based on reachability. Run against 12 public workflows (Django, Flask, pip and others): 11 clean, 1 with 3 genuine medium findings.
