@@ -20,7 +20,6 @@ I build detection systems and test them the way attackers and real networks woul
 - 🎓 **BEng General Engineering (Cyber Systems)** @ DTU, graduated 2026
 - 🏭 Industry experience at **NorthQ** building security automation and anomaly detection for a fleet of 2,000+ IoT devices
 - 🛡️ Focus: intrusion detection, blue team monitoring, OT/ICS security, CI/CD and supply-chain security
-- 💼 Open to **full-time** roles in Security Engineering, SOC / Detection Engineering and OT Security (my MSc is part-time)
 
 > **How I work:** a model that scores 99% on a random split usually learned the dataset, not the attack. I use temporal and cross-dataset splits, check for leakage, and report what my detectors **miss**, not just what they catch.
 
