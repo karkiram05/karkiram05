@@ -1,15 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Ram%20Karki&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Detection%20Engineering%20%C2%B7%20OT%2FICS%20Security&descAlignY=60&descSize=16" width="100%" alt="Ram Karki banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%" alt=""/>
+
+<h1 align="center">Hi, I'm Ram Karki 👋</h1>
+<p align="center"><b>Cybersecurity</b> · <b>Detection Engineering</b> · <b>OT/ICS Security</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-karki-434753255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karkiram3207@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gettoknowram.vercel.app"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://gettoknowram.vercel.app"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Copenhagen,%20Denmark-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Copenhagen, Denmark">
 </p>
 
 ---
 
-### 👋 About me
+### 🧭 About me
 
 I build detection systems and test them the way attackers and real networks would, not the way a benchmark would like.
 
